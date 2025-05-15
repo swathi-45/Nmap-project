@@ -9,3 +9,4 @@ few commands to specify scan....
 -sV   ----> Software version scan
 -p    ----> Total ports scan
 Default nmap would scan top 1000 ports.
+![allportscan](https://github.com/user-attachments/assets/e2afc62f-a7e9-48bc-8143-f93720d0e379)
